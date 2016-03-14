@@ -1,0 +1,42 @@
+.doc-feature {
+	min-height: 130px;
+}
+.doc-feature h3 {
+  text-align: center;
+}
+
+.doc-feature + .btn {
+	padding-top: 4px;
+  padding-bottom: 4px;
+  width: 70%;
+  display: block;
+  margin:auto;
+  margin-top: 2px;
+  margin-bottom: 50px;
+}
+
+#navigation .nav > li > a {
+  padding: 5px 15px;
+  color: #2c3e50;
+  background-color: #F1EDEA;
+}
+
+#navigation .subtree-name {
+  color: #2c3e50;
+  background-color:white;
+   padding: 5px 15px;
+   border:1px solid #B64926;
+}
+
+#navigation {
+  margin-top: 20px;
+}
+
+#navigation .nav li.parent {
+  margin-bottom: 20px;
+}
+
+#navigation .nav li.active a {
+  background-color: #B64926;
+  color: white;
+}
