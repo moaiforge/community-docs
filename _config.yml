@@ -1,7 +1,7 @@
 name: Moai SDK
 highlighter: rouge
 markdown: redcarpet
-
+baseurl: /community-docs
 exclude: [.gitignore, Gemfile, Gemfile.lock, params.json, README.md, build-scripts]
 
 collections:
