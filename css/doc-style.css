@@ -40,3 +40,7 @@
   background-color: #B64926;
   color: white;
 }
+
+#content img {
+  max-width: 100%;
+}
