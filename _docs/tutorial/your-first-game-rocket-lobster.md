@@ -1,5 +1,6 @@
 ---
 title: "Your First Game : Rocket Lobster"
+order: -29
 ---
 
 This tutorial will take you through the beginnings of implementing a small game in Moai. The example game you'll build here is inspired by [Atari's Missile Command](http://en.wikipedia.org/wiki/Missile_Command), and should give you a basic grasp of some core gameplay features like randomly spawning enemies, player input, explosions, and a clear failure condition.
