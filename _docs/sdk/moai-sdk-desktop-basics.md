@@ -27,7 +27,7 @@ To build/rebuild the moai libraries ensure you have the prequisites for your tar
 
 ####Linux Requirements
 * [CMake 3.1+](https://cmake.org/download)
-* `apt-get install cmake git-core build-essential libglu1-mesa-dev libxmu-dev libxi-dev libxxf86vm-dev`
+* `apt-get install cmake git-core build-essential libglu1-mesa-dev libxmu-dev libxi-dev libxxf86vm-dev libxcb-util0-dev`
 
 ####Android Requirements
 * [Oracle Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
