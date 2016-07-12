@@ -20,7 +20,6 @@ To build/rebuild the moai libraries ensure you have the prequisites for your tar
 
 ####Windows Requirements
 * [Visual Studio 2015 (Community edition is free)](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
-* [CMake 3.1+](https://cmake.org/download)
 
 ####OSX and iOS Requirements
 * Xcode 7+
